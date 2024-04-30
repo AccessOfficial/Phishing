@@ -1,0 +1,14 @@
+
+
+
+
+     |--------|                      |-------------------|
+     | 0    0 | -[Oh no!]            |Dear Google User   |
+     |--------|                      |-------------------|
+         ||    /-                    |Do to a Data breach|
+       /-||-\ /  |                   |your data may be   |
+       | || |/    \                  |Vulnrable. Please  |
+         || /     |                  |click here to reset|
+      [------]                       |your password      |
+                                     |goog.le/pass/reset |
+                                     |-------------------|									 

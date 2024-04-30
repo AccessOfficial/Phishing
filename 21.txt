@@ -1,0 +1,14 @@
+
+
+
+
+     |--------|                      |-------------------|
+     | 0    0 | -[Which option looks like it could be a phishing email?]
+     |--------|                      |-------------------|
+         ||    /-                    |Invoice NO 0.3.534 |
+       /-||-\ /  |                   |Steam OTP Code     |
+       | || |/    \                  |Facebook Update 2.1|
+         || /     |                  |Google Pass-Reset  |
+      [------]                       |-------------------|
+                                     |-------------------|
+                                     |-------------------|

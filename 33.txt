@@ -1,0 +1,14 @@
+
+
+
+
+     |--------|                      |-------------------|
+     | 0    0 | -[now we enter our ] |Google Pass-Reset  |
+     |--------|  [information]       |-------------------|
+         ||    /-                    |Please enter your  |
+       /-||-\ /  |                   |email and password |
+       | || |/    \                  |to reset it.       |
+         || /     |                  |Email:sf1@gmail.com|
+      [------]                       |Password: 123456789|
+                                     |Confirm: [Yes]|[No]|
+                                     |-------------------|									 

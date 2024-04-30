@@ -1,0 +1,12 @@
+
+
+
+
+     |--------|   
+     | 0    0 | -[this is one instance of many that happen daily]
+     |--------|   
+         ||    /-
+       /-||-\ /  | 
+       | || |/    \
+         || /     |
+      [------]
